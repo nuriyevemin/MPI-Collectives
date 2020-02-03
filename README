@@ -14,9 +14,9 @@ $ export LD_LIBRARY_PATH=DIR/lib:$LD_LIBRARY_PATH
 For users
 ---------
 
-Clone latest source code git@csgitlab.ucd.ie:emin.nuri/mpicollmodeling.git
+Clone latest source code git@git.ucd.ie:emin.nuriyev/algorithmselection.git
 
-$ cd mpicollmodeling
+$ cd himpi
 $ autoreconf -fi
 $ ./configure
 $ make 
